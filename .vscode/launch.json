@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: FolderSync Debug",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/FolderSync/bin/Debug/net8.0/FolderSync.dll",
+            "args": [
+                "C:/Users/kadir/OneDrive/Desktop/sync-test/source",
+                "C:/Users/kadir/OneDrive/Desktop/sync-test/replica",
+                "10",
+                "C:/Users/kadir/OneDrive/Desktop/sync-test/sync.log"
+            ],
+            "cwd": "${workspaceFolder}/FolderSync",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}

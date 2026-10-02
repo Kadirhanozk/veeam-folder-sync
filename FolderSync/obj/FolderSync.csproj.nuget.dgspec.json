@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj": {}
+    "c:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj": {
+    "c:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj",
+        "projectUniqueName": "c:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj",
         "projectName": "FolderSync",
-        "projectPath": "C:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj",
+        "projectPath": "c:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\FolderSync.csproj",
         "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\obj\\",
+        "outputPath": "c:\\Users\\kadir\\OneDrive\\Desktop\\VeeamTask\\FolderSync\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config"
